@@ -1,5 +1,5 @@
 # havoc-project
-
+### Basic chat with aws lambda and vuejs
 ## Project setup
 ```
 npm install
